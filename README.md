@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I am applying for a PhD. If you’re interested in discussing my work or potential collaborations, feel free to email me at zhehanli66@gmail.com
 - 💬 For more information, please visit my [homepage](https://dukuhfgfji.github.io/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-dukuhfgfjis-projects.vercel.app/api?username=dukuhfgfji" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-dukuhfgfjis-projects.vercel.app/api/top-langs?username=dukuhfgfji&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div class="image-container" align="center">
+  <img height=200 src="https://github-readme-stats-git-master-dukuhfgfjis-projects.vercel.app/api?username=dukuhfgfji" />
+  <img height=200 src="https://github-readme-stats-git-master-dukuhfgfjis-projects.vercel.app/api/top-langs?username=dukuhfgfji&layout=compact&langs_count=8&card_width=320" />
+</div>
