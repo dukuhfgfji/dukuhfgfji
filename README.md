@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 For more information, please visit my [homepage](https://dukuhfgfji.github.io/)
 
 <div class="image-container" align="center">
-  <img height=200 src="https://github-readme-stats-git-master-dukuhfgfjis-projects.vercel.app/api?username=dukuhfgfji" />
-  <img height=200 src="https://github-readme-stats-git-master-dukuhfgfjis-projects.vercel.app/api/top-langs?username=dukuhfgfji&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api?username=dukuhfgfji" />
+  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api/top-langs?username=dukuhfgfji&layout=compact&langs_count=8&card_width=320" />
 </div>
