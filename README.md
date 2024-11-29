@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 😇 I am currently a Master student in the [Fast Lab](http://zju-fast.com/) [Fire Group](http://zju-fast.com/research-group/yanjun-cao/) under the guidance of [Yanjun Cao](http://zju-fast.com/research-group/yanjun-cao/).
-- 😍 My reserach interests lies in multi-robot perception and collaboration.
-- 🤔 I am applying for a PhD.
+- 🤖 I'm Zhehan Li, a **Robotics** student passionate about practical multi-robot systems.
+- 😇 I'm currently a Master student in the [Fast Lab](http://zju-fast.com/) [Fire Group](http://zju-fast.com/research-group/yanjun-cao/) under the guidance of [Yanjun Cao](http://zju-fast.com/research-group/yanjun-cao/).
+- 😍 My reserach interests lies in **Multi-Robot Perception and Collaboration**.
+- 🤔 I'm now applying for a PhD.
 - 🤗 If you’re interested in discussing my work or potential collaborations, feel free to email me at zhehanli66@gmail.com
 - 💬 For more information, please visit my [homepage](https://dukuhfgfji.github.io/)
 
