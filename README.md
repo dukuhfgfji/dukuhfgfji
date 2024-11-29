@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 For more information, please visit my [homepage](https://dukuhfgfji.github.io/)
 
 <div class="image-container" align="center">
-  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api?username=dukuhfgfji&show_icons=true&org=FAST-FIRE&role=OWNER,COLLABORATOR" />
-  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api/top-langs?username=dukuhfgfji&layout=compact&langs_count=8&card_width=320&org=FAST-FIRE&role=OWNER,COLLABORATOR" />
+  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api?username=dukuhfgfji&show_icons=true&role=OWNER,COLLABORATOR" />
+  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api/top-langs?username=dukuhfgfji&layout=compact&langs_count=8&card_width=320&role=OWNER,COLLABORATOR" />
 </div>
